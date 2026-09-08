@@ -1,9 +1,6 @@
-Create a public repository named `.github` under your organization and add this file at `profile/README.md` to display these conventions on your organization's main page.
-
-```markdown
 # 🛡️ TRACE System Development Hub
 
-Welcome to the TRACE (Telemetry, Remediation, and Anomaly Control Engine) central repository hub. This organization houses the microservices required for our multi-module endpoint management and analytics system. 
+Welcome to the TRACE (Telemetry, Remediation, and Anomaly Control Engine) central repository hub. This organization houses the microservices required for the Quezon City University multi-module endpoint management and analytics system. 
 
 **Architecture Overview**
 * **`trace-endpoint-agent`**: C# Native AOT Windows Service handling OS Deep Freeze, hardware telemetry extraction, and C2D payload execution.
